@@ -13,7 +13,7 @@ Clone this repository and ensure you have the required dependencies installed:
 
 bash
 Copy code
-git clone https://github.com/your-github-repo/time-series-toolkit.git
+git clone https://github.com/pamanh97/RNNcombinedRF
 cd time-series-toolkit
 pip install -r requirements.txt
 Usage
